@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 51520e269a403bd4a909b94d467fb164
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Manti Sans Demo
+  fontNames:
+  - Manti Sans Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d0f54645056b9724ab9a11082a161c84, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
